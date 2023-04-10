@@ -13,4 +13,6 @@
     <color name="textColor">#844846</color>
     <color name="backgroundColor">#FEF1E0</color>
     <color name="black">#FF000000</color>
+    <color name="ageTextBackgroundColor">#C846DCE0</color>
+    <color name="ageTextColor">#FFFFFF</color>
 </resources>
